@@ -1,2 +1,2 @@
-# EasyText - Backend (google.com)
+# [EasyText - Backend] (google.com)
 "# EasyText-Frontend" 
